@@ -2,8 +2,7 @@
 
 Hello! I'm passionate about Android development :-)
 
-I have successfully launched **4 Android applications** and actively contributed to the development of 7 Android projects.
-
+I have successfully launched 4 Android apps and actively developed 7 Android projects.
 
 
 ### Education 🎓
