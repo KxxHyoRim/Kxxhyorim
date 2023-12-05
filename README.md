@@ -28,8 +28,7 @@ I have successfully launched 4 Android apps and actively developed 7 Android pro
 
 
 
-For more details, please refer to [my resume](https://www.notion.so/dev-hyorim/Resume-58dc6cf040b047b8a95d1fe592d2d269?pvs=4).
-
+For more details, please refer to [my resume](https://github.com/KxxHyoRim/Kxxhyorim/files/13557713/Resume.pdf)(kr).
 
 
 ### Contact 📮
