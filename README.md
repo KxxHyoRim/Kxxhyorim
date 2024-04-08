@@ -34,5 +34,6 @@ For more details, please refer to [my resume](https://github.com/KxxHyoRim/Kxxhy
 ### Contact 📮
 
 Email : rlagyfla0709@gmail.com </br>
+Blog : https://developer-rim.tistory.com </br>
 I'm currently open to new opportunities, so please feel free to reach out if you have any further questions. </br>
 Thank you!
