@@ -29,8 +29,9 @@ I have successfully launched 4 Android apps and actively developed 7 Android pro
 ### Resume 👩🏻‍💻
 
 For more details, please refer to my resume.
-- [김효림 이력서(Kor).pdf](https://github.com/KxxHyoRim/Kxxhyorim/files/13557713/Resume.pdf)
-- [HYORIM KIM Resume(Eng).pdf](https://github.com/KxxHyoRim/Kxxhyorim/files/15022845/Hyorim.Kim_Resume.Eng.pdf)
+- <a href="https://github.com/KxxHyoRim/Kxxhyorim/files/13557713/Resume.pdf" target="_blank">김효림 이력서(Kor).pdf</a>
+- <a href="https://github.com/KxxHyoRim/Kxxhyorim/files/15022845/Hyorim.Kim_Resume.Eng.pdf" target="_blank">HYORIM KIM Resume(Eng).pdf</a>
+
 
 
 ### Contact 📮
