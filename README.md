@@ -26,14 +26,16 @@ I have successfully launched 4 Android apps and actively developed 7 Android pro
 - Teaching Assistant at the School (09/2020 ~ 02/2023)
 - Samsung SDS Algorithm Education (07/2022)
 
+### Resume 👩🏻‍💻
 
-
-For more details, please refer to [my resume](https://github.com/KxxHyoRim/Kxxhyorim/files/13557713/Resume.pdf)(kr).
+For more details, please refer to my resume.
+- [김효림 이력서(Kor).pdf](https://github.com/KxxHyoRim/Kxxhyorim/files/13557713/Resume.pdf)
+- [HYORIM KIM Resume(Eng).pdf](https://github.com/KxxHyoRim/Kxxhyorim/files/15022845/Hyorim.Kim_Resume.Eng.pdf)
 
 
 ### Contact 📮
 
-Email : rlagyfla0709@gmail.com </br>
-Blog : https://developer-rim.tistory.com </br>
-I'm currently open to new opportunities, so please feel free to reach out if you have any further questions. </br>
+- Email : rlagyfla0709@gmail.com </br>
+- Blog : https://developer-rim.tistory.com </br>
+- I'm currently open to new opportunities, so please feel free to reach out if you have any further questions. </br>
 Thank you!
